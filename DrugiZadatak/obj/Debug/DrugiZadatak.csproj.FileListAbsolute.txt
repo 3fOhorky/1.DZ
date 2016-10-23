@@ -1,0 +1,5 @@
+D:\Program Files (x86)\Visual Studio 2015 projects\PrvaDZ\DrugiZadatak\bin\Debug\DrugiZadatak.dll
+D:\Program Files (x86)\Visual Studio 2015 projects\PrvaDZ\DrugiZadatak\bin\Debug\DrugiZadatak.pdb
+D:\Program Files (x86)\Visual Studio 2015 projects\PrvaDZ\DrugiZadatak\obj\Debug\DrugiZadatak.dll
+D:\Program Files (x86)\Visual Studio 2015 projects\PrvaDZ\DrugiZadatak\obj\Debug\DrugiZadatak.pdb
+D:\Program Files (x86)\Visual Studio 2015 projects\PrvaDZ\DrugiZadatak\obj\Debug\DrugiZadatak.csprojResolveAssemblyReference.cache

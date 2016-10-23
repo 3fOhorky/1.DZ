@@ -1,0 +1,5 @@
+D:\Program Files (x86)\Visual Studio 2015 projects\PrvaDZ\IntegerList\bin\Debug\IntegerList.dll
+D:\Program Files (x86)\Visual Studio 2015 projects\PrvaDZ\IntegerList\bin\Debug\IntegerList.pdb
+D:\Program Files (x86)\Visual Studio 2015 projects\PrvaDZ\IntegerList\obj\Debug\PrviZadatak.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Visual Studio 2015 projects\PrvaDZ\IntegerList\obj\Debug\IntegerList.dll
+D:\Program Files (x86)\Visual Studio 2015 projects\PrvaDZ\IntegerList\obj\Debug\IntegerList.pdb
